@@ -1,0 +1,6 @@
+# Ignore text files
+*.txt 
+# Ignore folder 
+temp_folder/ 
+# Ignore log files 
+*.log
